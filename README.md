@@ -1,6 +1,6 @@
 # An-Improved-Variational-Method-for-Image-Denoising Result Illustrations
 
-Mixed-Norm stands for our improved variational method.
+Mixed-Norm model stands for our improved variational method.
 PPS stands for product of PSNR and SSIM.
 
 ## dog
