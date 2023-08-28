@@ -183,57 +183,57 @@ PPS stands for product of PSNR and SSIM.
 ## cameraman
 
 ### Gaussian
-![](image/mosaic_Gaussian.png)
+![](image/cameraman_Gaussian.png)
 ### salt & pepper
-![](image/mosaic_salt&pepper.png)
+![](image/cameraman_salt&pepper.png)
 ### Poisson
-![](image/mosaic_Poisson.png)
+![](image/cameraman_Poisson.png)
 ### speckle
-![](image/mosaic_speckle.png)
+![](image/cameraman_speckle.png)
 ### uniform
-![](image/mosaic_uniform.png)
+![](image/cameraman_uniform.png)
 
 ### Gaussian + salt & pepper
-![](image/mosaic_Gaussian+salt&pepper.png)
+![](image/cameraman_Gaussian+salt&pepper.png)
 ### Gaussian + Poisson
-![](image/mosaic_Gaussian+Poisson.png)
+![](image/cameraman_Gaussian+Poisson.png)
 ### Gaussian + speckle
-![](image/mosaic_Gaussian+speckle.png)
+![](image/cameraman_Gaussian+speckle.png)
 ### Gaussian + uniform
-![](image/mosaic_Gaussian+uniform.png)
+![](image/cameraman_Gaussian+uniform.png)
 
 ### salt & pepper + Gaussian
-![](image/mosaic_salt&pepper+Gaussian.png)
+![](image/cameraman_salt&pepper+Gaussian.png)
 ### salt & pepper + Poisson
-![](image/mosaic_salt&pepper+Poisson.png)
+![](image/cameraman_salt&pepper+Poisson.png)
 ### salt & pepper + speckle
-![](image/mosaic_salt&pepper+speckle.png)
+![](image/cameraman_salt&pepper+speckle.png)
 ### salt & pepper + uniform
-![](image/mosaic_salt&pepper+uniform.png)
+![](image/cameraman_salt&pepper+uniform.png)
 
 ### Poisson + Gaussian
-![](image/mosaic_Poisson+Gaussian.png)
+![](image/cameraman_Poisson+Gaussian.png)
 ### Poisson + salt & pepper
-![](image/mosaic_Poisson+salt&pepper.png)
+![](image/cameraman_Poisson+salt&pepper.png)
 ### Poisson + speckle
-![](image/mosaic_Poisson+speckle.png)
+![](image/cameraman_Poisson+speckle.png)
 ### Poisson + uniform
-![](image/mosaic_Poisson+uniform.png)
+![](image/cameraman_Poisson+uniform.png)
 
 ### speckle + Gaussian
-![](image/mosaic_speckle+Gaussian.png)
+![](image/cameraman_speckle+Gaussian.png)
 ### speckle + salt & pepper
-![](image/mosaic_speckle+salt&pepper.png)
+![](image/cameraman_speckle+salt&pepper.png)
 ### speckle + Poisson
-![](image/mosaic_speckle+Poisson.png)
+![](image/cameraman_speckle+Poisson.png)
 ### speckle + uniform
-![](image/mosaic_speckle+uniform.png)
+![](image/cameraman_speckle+uniform.png)
 
 ### uniform + Gaussian
-![](image/mosaic_uniform+Gaussian.png)
+![](image/cameraman_uniform+Gaussian.png)
 ### uniform + salt & pepper
-![](image/mosaic_uniform+salt&pepper.png)
+![](image/cameraman_uniform+salt&pepper.png)
 ### uniform + Poisson
-![](image/mosaic_uniform+Poisson.png)
+![](image/cameraman_uniform+Poisson.png)
 ### uniform + speckle
-![](image/mosaic_uniform+speckle.png)
+![](image/cameraman_uniform+speckle.png)
